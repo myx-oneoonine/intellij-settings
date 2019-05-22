@@ -1,4 +1,4 @@
-<keymap version="1" name="myx-keymap2" parent="Mac OS X 10.5+">
+<keymap version="1" name="myx-keymap" parent="Mac OS X 10.5+">
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
     <keyboard-shortcut first-keystroke="ctrl l" second-keystroke="l" />
