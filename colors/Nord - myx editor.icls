@@ -4,7 +4,7 @@
     <property name="created">2019-05-27T17:25:31</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-05-27T20:38:57</property>
+    <property name="modified">2019-05-29T11:07:05</property>
     <property name="originalScheme">_@user_Nord</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -185,8 +185,7 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="4c566a" />
-        <option name="EFFECT_COLOR" value="88c0d0" />
+        <option name="BACKGROUND" value="68573a" />
         <option name="ERROR_STRIPE_COLOR" value="88c0d0" />
       </value>
     </option>
@@ -766,7 +765,7 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="41536b" />
+        <option name="BACKGROUND" value="6f8362" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
