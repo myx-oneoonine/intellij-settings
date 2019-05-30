@@ -1,6 +1,5 @@
 <application>
   <component name="HttpConfigurable">
-    <option name="USE_HTTP_PROXY" value="true" />
     <option name="PROXY_HOST" value="proxya.ais.co.th" />
     <option name="PROXY_PORT" value="2520" />
   </component>
