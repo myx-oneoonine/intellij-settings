@@ -3,6 +3,19 @@
     <keyboard-shortcut first-keystroke="meta alt l" />
     <keyboard-shortcut first-keystroke="ctrl l" second-keystroke="l" />
   </action>
+  <action id="Refresh">
+    <keyboard-shortcut first-keystroke="meta r" second-keystroke="meta r" />
+  </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="meta r" second-keystroke="meta r" />
+  </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+    <keyboard-shortcut first-keystroke="meta r" second-keystroke="meta a" />
+  </action>
+  <action id="Rerun">
+    <keyboard-shortcut first-keystroke="meta r" second-keystroke="meta r" />
+  </action>
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
