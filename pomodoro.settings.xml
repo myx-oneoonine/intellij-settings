@@ -1,6 +1,0 @@
-<application>
-  <component name="PomodoroSettings">
-    <option name="ringVolume" value="3" />
-    <option name="showToolWindow" value="true" />
-  </component>
-</application>
