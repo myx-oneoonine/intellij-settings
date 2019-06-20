@@ -1,0 +1,11 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="ultimate format">
+      <action id="OptimizeImports" />
+      <action id="ReformatCode" />
+      <action id="ReformatWithPrettierAction" />
+      <action id="Javascript.Linters.EsLint.Fix" />
+      <action id="SaveAll" />
+    </macro>
+  </component>
+</application>
