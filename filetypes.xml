@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="product_style" type="CSS" />
       <mapping pattern="response_pass_3_table" type="JSON" />
       <mapping ext="test" type="SQL" />
     </extensionMap>
