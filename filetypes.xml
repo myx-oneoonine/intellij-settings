@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="product_style" type="CSS" />
       <mapping pattern="response_pass_3_table" type="JSON" />
+      <mapping ext="vmoptions" type="PLAIN_TEXT" />
       <mapping ext="test" type="SQL" />
     </extensionMap>
   </component>
